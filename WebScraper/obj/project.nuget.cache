@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0BKm/ZlAwvj1gasmy3sLKu0L55BOHNmQvurvIV5u1bLVbXH3HMilFMQbRXv8trrAVpxqVvZvV2vaU251HyNH0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beaut\\source\\repos\\WebScraper\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beaut\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
